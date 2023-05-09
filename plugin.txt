@@ -1,0 +1,3 @@
+Plugin soll Spieler Freezen und entfreezen
+Spieler per namen einfrieren lassen
+Spieler sollen durch einen Command eingefroren werden /Freeze "name"

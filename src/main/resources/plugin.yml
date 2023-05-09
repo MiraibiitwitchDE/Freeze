@@ -1,0 +1,14 @@
+name: Freeze
+version: '${version}'
+main: me.mira.freeze.Freeze
+api-version: 1.19
+authors: [ Miraibii ]
+description: You can Freeze your whole Family!
+
+depend: [ LuckPerms ]
+softdepend: [ LuckPerms ]
+
+commands:
+  freeze:
+    description: Freeze your uncle and your dad!
+    usage: /freeze <player> to freeze someone!
